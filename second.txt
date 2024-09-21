@@ -1,2 +1,0 @@
-This is second file.
-I added the line.
